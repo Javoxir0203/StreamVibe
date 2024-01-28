@@ -1,0 +1,7 @@
+.bg-home {
+    max-width: 1920px;
+    max-height: 860px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-image: url(home.jpg);
+}

@@ -1,0 +1,7 @@
+a.active {
+    border-radius: 8px;
+    border: 1px solid var(--black-10, #1A1A1A);
+    background: var(--black-10, #1A1A1A);
+    color: #FFF;
+    padding: 8px 17px;
+}
