@@ -33,7 +33,7 @@ const MainS = () => {
           </div>
           </div>
            <label htmlFor="inputPhone" className="text-[#FFF] text-lg font-semibold block mb-4">Message</label>
-            <input type="text" id="inputPhone" placeholder="Enter Your Message" className="bg-[#141414] border-[#262626] border-2 rounded-lg pr-6 pl-6 py-6 w-[500px] h-[180px]" />
+            <input type="text" id="inputPhone" placeholder="Enter Your Message" className="bg-[#141414] border-[#262626] border-2 rounded-lg pr-6 pl-6 py-6 w-[500px] h-[180px] text-white" />
          <div className='flex justify-between items-center  mt-12'>
           <input type="checkbox" id="horns" name="horns" />
     <label for="horns" className='text-[#FFF] mr-[300px]'>I agree </label>
